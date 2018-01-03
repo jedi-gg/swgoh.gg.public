@@ -8,6 +8,10 @@ Unfortunately, SWGOH.GG's codebase is not public. This repo exists as an issue t
 
 The site was started by [sanktanglia](https://github.com/sanktanglia) and [danpaulson](https://github.com/danpaulson). After the launch of mods, [scoot1585](https://github.com/scoot1585) and [drdemp72](https://github.com/drdemp72) joined the (unofficial) team. That is the team to this day.
 
+### Is there an official SWGOH.GG API?
+
+Currently there is no official API, though you may find some around the site that we use. Our intention is to release an API that can support third party sites, but there are some technical hurdles we need to overcome first.
+
 ### FAQ
 * **Can you add data for partial shard counts on Player's Units?**
 
