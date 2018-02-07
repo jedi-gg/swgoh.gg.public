@@ -1,6 +1,6 @@
 # SWGOH.GG Public Repo
 
-Update: https://danpaulson.github.io/swgoh.gg.public/
+Updates: https://danpaulson.github.io/swgoh.gg.public/
 
 ### Where's all the code!?
 
