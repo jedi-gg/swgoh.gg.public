@@ -1,5 +1,7 @@
 # SWGOH.GG Public Repo
 
+Update: https://danpaulson.github.io/swgoh.gg.public/
+
 ### Where's all the code!?
 
 Unfortunately, SWGOH.GG's codebase is not public. This repo exists as an issue tracker and a place for general information about the site.
