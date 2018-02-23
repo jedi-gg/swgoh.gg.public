@@ -1,5 +1,10 @@
 # SWGOH.GG Updates
 
+## 22.02.18
+
+* Fixed deleted Squad Templates from showing up in filtered listings
+* Enabled username and email change
+
 ## 12.02.18
 
 * Added Filters to Squad Templates
