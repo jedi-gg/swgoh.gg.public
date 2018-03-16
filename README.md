@@ -1,5 +1,7 @@
 # SWGOH.GG Updates
 
+For minor updates, always check the closed issue log: https://github.com/danpaulson/swgoh.gg.public/issues?q=is%3Aissue+is%3Aclosed
+
 ## 22.02.18
 
 * Fixed deleted Squad Templates from showing up in filtered listings
