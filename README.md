@@ -1,6 +1,6 @@
 # SWGOH.GG Public Repo
 
-Updates: https://updates.swgoh.gg/
+
 
 ### Where's all the code!?
 
